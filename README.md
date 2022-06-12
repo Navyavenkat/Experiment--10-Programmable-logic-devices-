@@ -79,7 +79,8 @@ endmodule
 
 ### TIMING DIGRAMS  
 
-[GITHUB LOGO](R2.png)
+![image](https://user-images.githubusercontent.com/94165327/173217555-39ba4f73-950a-45c2-940e-6bfff7c3fb6b.png)
+
 
 
 ### RESULTS 
