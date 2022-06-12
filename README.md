@@ -74,7 +74,7 @@ endmodule
 ### RTL LOGIC  
 
 
-[GITHUB LOGO](R1.png)
+![image](https://user-images.githubusercontent.com/94165327/173217537-1ca86cc1-5e2e-4e39-b6f3-e6e5fb1d95e7.png)
 
 
 ### TIMING DIGRAMS  
